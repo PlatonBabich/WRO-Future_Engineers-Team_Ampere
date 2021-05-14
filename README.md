@@ -1,2 +1,4 @@
 # WRO-Future_Engineers-Team_Ampere
-Hello, we are the <b>Ampere</b> team. We are preparing for the All-Russian competition <b>"WRO"</b> in the category <b>"Future Engineers"</b>. This repository will contain data about the robot and its program. 
+Здравствуйте, мы команда "Ампер". Мы готовимся к Всероссийским соревнованиям по робототехники "ВРО".
+Мы выступаем в номинации "Future Engineers". Мы создали робота в виде машинки, оснастили его подвеской,
+камерой и RuspberyPy.
